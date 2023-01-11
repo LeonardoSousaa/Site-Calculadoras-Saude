@@ -1,0 +1,80 @@
+.header {
+    background-image: url('./../../../public/imagem.inicio.png'); 
+    height: 671px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 80%;
+}
+
+.textoInicial {
+  font-size: clamp(65px, 85px, 85px);
+  color: #ffffff;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 150px;
+  margin: auto;
+  max-width: 1200px;
+}
+
+.buttom_inicio {
+  margin: auto;
+  max-width: 1200px;
+  color: black;
+  background: #ff9500;
+  height: 75px;
+  width: 223px;
+  font-size: 20px;
+  display: block;
+  margin-top: 100px;
+  font-family: "Inter", sans-serif;
+  text-transform: uppercase;
+  border: none;
+}
+
+.buttom_inicio:hover {
+  cursor: pointer;
+  background: #ba7008;
+}
+
+.texto_botao {
+  text-decoration: none;
+  color: black;
+}
+
+@media screen and (max-width: 450px) {
+	.textoInicial {
+      font-size: 55px !important;
+  } 
+  
+  .buttom_inicio {
+  width: 170px;
+  height: 57px;
+  font-size: 15px;
+  }
+
+  .imagem_segunda_section {
+      display: none;
+  }
+
+  }
+
+  @media screen and (max-width: 970px) {
+    .buttom_inicio {
+      width: 170px;
+      height: 57px;
+      font-size: 15px;
+      }
+
+      .textoInicial {
+          font-size: 70px;
+      } 
+      
+      .buttom_inicio {
+      width: 170px;
+      height: 57px;
+      font-size: 15px;
+      margin-top: 65px;
+      }
+  }
+

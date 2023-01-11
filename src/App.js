@@ -1,22 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
+import Highlight from './components/Highlight'
+import SegundaSection from './components/SegundaSection'
+import TerceiraSection from './components/TerceiraSection'
+import Footer from './components/Footer'
+import PageCalculator from './Pages'
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>Olá mundo</p>
-          Edit <code>src/App.js</code> and save to reload.
-        
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <Highlight/>
+    <SegundaSection/>
+    <TerceiraSection/>
+    <PageCalculator/>
+    <Footer/>
     </div>
   );
 }

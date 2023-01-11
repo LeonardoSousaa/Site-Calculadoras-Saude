@@ -1,0 +1,17 @@
+.btn-01 {
+    height: 3em;
+    width: 100%;
+    background-color: #ff9500;
+    border: none;
+    color: white;
+    max-width: 30em;
+    margin-right: 5px;
+    cursor: pointer;
+    margin-bottom: 1px;
+  }
+
+  .btn-01:hover {
+    background: #ba7008;
+
+  }
+  

@@ -1,0 +1,18 @@
+footer {
+    background: black;
+    text-align: center;
+    padding: 1px;
+    color: #FFFFFF;
+    margin: 0px;
+  }
+  
+  .quinta_section_ul {
+    margin: 0px;
+    padding: 20px;
+  }
+  
+  .quinta_section_li {
+    display: inline-block;
+    padding: 20px;
+    font-family: 'Inter', sans-serif;
+  }

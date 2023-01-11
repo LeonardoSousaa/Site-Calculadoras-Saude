@@ -1,0 +1,58 @@
+.Calculator {
+    font-family: sans-serif;
+    text-align: center;
+    background: #1c1c1c;
+    padding: 2.5em;
+    border-radius: 0.5em;
+    align-items: center;
+    flex-direction: column;
+    max-width: 25em;
+    margin: auto;
+    margin-bottom: 12px;
+  }
+  
+  .Label-bio {
+    display: block;
+  }
+  
+  .NamePeso {
+    margin-bottom: 15px;
+    font-size: 30px;
+    color: #d4d4d2;
+  }
+  
+  input {
+    height: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .continer_peso {
+    color: #d4d4d2;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: space-between;
+    width: 18em;
+  }
+  
+  p {
+    color: #d4d4d2;
+  }
+  
+  .buttons {
+    display: flex;
+    margin-bottom: 12px;
+  }
+  
+  .btn_footer {
+    margin-bottom: 12px;
+  }
+
+  @media screen and (max-width: 500px) {
+
+  .continer_peso {
+    display: block;
+    width: 100%;
+  }
+}

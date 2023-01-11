@@ -1,0 +1,141 @@
+.quartaSectionColor {
+    background-color: #FF9500;
+    margin-top: 50px;
+}
+
+
+.quartaSection {
+    display: flex;
+    padding: 20px;
+    padding-top: 40px;
+    text-align: left;
+    margin: auto;
+    max-width: 1000px;
+}
+
+.quarta_section_p {
+    font-size: 21px;
+    color: #FFFFFF;
+    margin: 0px;
+    margin-left: 40px;
+}
+
+h6 {
+    color: #FFFFFF;
+    margin: 0px;
+    text-transform: uppercase;
+    font-size: 45px;
+    text-align: center;
+    padding: 20px;
+}
+
+ .ImagemEcto {
+    background: url("./../../public/li_primeira.png");
+    width: 371px;
+    height: 416px;
+} 
+
+.ImagemEndo {
+    background: url("./../../public/li_segunda.png");
+    width: 371px;
+    height: 416px;
+}
+
+.ImagemMeso {
+    background: url("./../../public/li.terceira.png");
+    width: 371px;
+    height: 416px;   
+}
+
+.ImagemEcto:hover {
+    transition: background 1s;
+    background: url(./../../public/ectomorfo.png);
+}
+
+.ImagemEndo:hover {
+    transition: background 1s;
+    background: url(./../../public/endomorfo.png);    
+}
+
+.ImagemMeso:hover {
+    transition: background 1s;
+    background: url(./../../public/mesomorfo.png);
+}
+
+@media screen and (max-width: 450px) {
+
+    .quartaSection {
+        display: block;
+    }
+
+    .quarta_section {
+        padding-top: 30px;
+    }
+
+    .quarta_section_div {
+        display: inline;
+        padding: 0px;
+    }
+
+    .quarta_section_p {
+        font-size: 20px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .ImagemEcto {
+        background: url(../../public/li_primeira_menor.png);
+        width: 313px;
+        height: 351px;
+    }
+
+    .ImagemEcto:hover {
+        transition: background 1s;
+        background: url(./../../public/ectomorfo_menor.png);
+    }
+
+    .ImagemEndo {
+        background: url(../../public/li_segunda_menor.png);
+        width: 313px;
+        height: 351px;
+    }
+
+    .ImagemEndo:hover {
+        transition: background 1s;
+        background: url(./../../public/ectomorfo_menor.png);
+    }
+
+    .ImagemMeso {
+        background: url(../../public/li_terceira_menor.png);
+        width: 313px;
+        height: 351px;
+    }
+
+    .ImagemMeso:hover {
+        transition: background 1s;
+        background: url(./../../public/mesomorfo_menor.png);
+    }
+
+}
+
+@media screen and (max-width: 970px) {
+
+    .quartaSection {
+        display: block;
+    }
+
+    .quarta_section {
+        padding-top: 30px;
+    }
+
+    .quarta_section_div {
+        display: inline;
+        padding: 0px;
+    }
+
+    .quarta_section_p {
+        font-size: 20px;
+        margin: auto;
+        padding: 20px;
+    }
+}
