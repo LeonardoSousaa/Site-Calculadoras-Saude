@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Site-Calculadoras-Saude/static/css/main.40fb8050.css",
+    "main.js": "/Site-Calculadoras-Saude/static/js/main.9708c4d9.js",
+    "static/js/787.46ab7d76.chunk.js": "/Site-Calculadoras-Saude/static/js/787.46ab7d76.chunk.js",
+    "static/media/imagem.inicio.png": "/Site-Calculadoras-Saude/static/media/imagem.inicio.0fd143732c989d358b83.png",
+    "static/media/li_segunda.png": "/Site-Calculadoras-Saude/static/media/li_segunda.700244ca24a4302d30b1.png",
+    "static/media/li_primeira.png": "/Site-Calculadoras-Saude/static/media/li_primeira.2b368464049afd568d3d.png",
+    "static/media/li_primeira_menor.png": "/Site-Calculadoras-Saude/static/media/li_primeira_menor.c14f93eebd0270f75f56.png",
+    "static/media/li_segunda_menor.png": "/Site-Calculadoras-Saude/static/media/li_segunda_menor.8402568430b5ac555026.png",
+    "static/media/li.terceira.png": "/Site-Calculadoras-Saude/static/media/li.terceira.30c438de5edb91f58619.png",
+    "static/media/li_terceira_menor.png": "/Site-Calculadoras-Saude/static/media/li_terceira_menor.fd6aa9608f765103eea4.png",
+    "static/media/ectomorfo_menor.png": "/Site-Calculadoras-Saude/static/media/ectomorfo_menor.da92aca3597c5f49635d.png",
+    "static/media/mesomorfo_menor.png": "/Site-Calculadoras-Saude/static/media/mesomorfo_menor.bbceff52439ee6c803bf.png",
+    "static/media/endomorfo.png": "/Site-Calculadoras-Saude/static/media/endomorfo.8428726d1e2561ec80a9.png",
+    "static/media/mesomorfo.png": "/Site-Calculadoras-Saude/static/media/mesomorfo.3c65d656988229c38dd8.png",
+    "static/media/ectomorfo.png": "/Site-Calculadoras-Saude/static/media/ectomorfo.1f6f5aca4e673889d6f5.png",
+    "static/media/logo.svg": "/Site-Calculadoras-Saude/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Site-Calculadoras-Saude/index.html",
+    "main.40fb8050.css.map": "/Site-Calculadoras-Saude/static/css/main.40fb8050.css.map",
+    "main.9708c4d9.js.map": "/Site-Calculadoras-Saude/static/js/main.9708c4d9.js.map",
+    "787.46ab7d76.chunk.js.map": "/Site-Calculadoras-Saude/static/js/787.46ab7d76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40fb8050.css",
+    "static/js/main.9708c4d9.js"
+  ]
+}
